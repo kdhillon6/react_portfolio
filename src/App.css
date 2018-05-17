@@ -26,3 +26,18 @@
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+
+.nbar {
+  height: 70px;
+  position: fixed;
+  top: 0;
+  background: #201D1E;
+  padding: 10px 0;
+  width: 100%;
+}
+
+.nbar-ulist {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}

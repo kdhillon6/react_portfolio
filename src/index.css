@@ -3,3 +3,25 @@ body {
   padding: 0;
   font-family: sans-serif;
 }
+
+
+
+.nbar {
+  height: 70px;
+  position: fixed;
+  top: 0;
+  background:black;
+  padding: 10px 0;
+  width: 100%;
+}
+
+.nbar-ulist {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+
+.pbox {
+  background: darkslategrey;
+}
